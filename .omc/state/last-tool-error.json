@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"gh repo create product-hunt-launch-template --public --description \\\"Complete Product Hunt launch system with 30-day pre-launch checklist, launch day schedule, real-time metrics tracking, ...",
+  "error": "Exit code 1\ncurrent directory is not a git repository. Run `git init` to initialize it",
+  "timestamp": "2026-06-03T20:33:38.312Z",
+  "retry_count": 1
+}
